@@ -23,7 +23,7 @@ public class MyInterfaceProg {
         }
         return sum / objects.length;
     }
-}
+
 
     private static double average(BankAccount[] objects) {
         if (objects.length == 0) {return 0;}
@@ -33,4 +33,4 @@ public class MyInterfaceProg {
         }
         return sum / objects.length;
     }
-}
+
