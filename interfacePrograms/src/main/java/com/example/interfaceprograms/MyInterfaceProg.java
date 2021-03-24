@@ -32,5 +32,5 @@ public class MyInterfaceProg {
             sum = sum + obj.getBalance();
         }
         return sum / objects.length;
-    }
+    }}
 
